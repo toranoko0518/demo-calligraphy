@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/blueGray500</item>
+        <item name="colorPrimaryDark">@color/blueGray700</item>
+        <item name="colorAccent">@color/pink500</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+</resources>

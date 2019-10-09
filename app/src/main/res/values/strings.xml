@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calligraphy</string>
+    <string name="pangram">Grumpy wizards make toxic brew for the evil Queen and Jack.</string>
+
+</resources>
